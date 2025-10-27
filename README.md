@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://suzumilu.github.io/.github/superduper">  
+<a href="https://christalse0404.github.io/.github/superduper">  
 <img src="https://img.shields.io/badge/GET_SuperDuper-darkblue?style=for-the-badge&logo=apple" alt="GET SuperDuper">  
 </a>  
 </div>  
